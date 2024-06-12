@@ -3,7 +3,7 @@ import { initializeApp, getApps, getApp } from 'firebase/app';
 import { getFirestore, collection, query, orderBy, limit, onSnapshot, serverTimestamp } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBRlOzsn-69rFk5lUA5UvdtpvOp3zR60g8",
+    apiKey: "",
     authDomain: "rare-decker-423514-m6.firebaseapp.com",
     projectId: "rare-decker-423514-m6",
     storageBucket: "rare-decker-423514-m6.appspot.com",
