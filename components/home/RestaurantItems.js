@@ -6,7 +6,7 @@ export const localRestaurants = [
   {
     name: "Beachside Bar",
     image_url:
-      "https://thumbs.dreamstime.com/b/beach-bar-clear-blue-sky-phayam-island-thailand-39667077.jpg",
+      "https://thumbs.https://www.nusaduahotel.com/wp-content/uploads/2018/10/NDBHS_CHESS_BAR_01_MAINPICTURE-2024-jpg.webp.com/b/beach-bar-clear-blue-sky-phayam-island-thailand-39667077.jpg",
     categories: ["Cafe", "Bar"],
     price: "$$",
     reviews: 1244,
